@@ -1,0 +1,1 @@
+estou enviando a env pois não tem nada confidencial,  apenas acadêmico, e é necessária para configuração do banco de dados.
